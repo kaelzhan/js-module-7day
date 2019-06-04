@@ -4,7 +4,7 @@
 
 ### [Watch Slides → ](http://huangxuan.me/js-module-7day)
 
-<img src="http://huangxuan.me/js-module-7day/attach/qrcode.png" width="350" />
+<img src="https://www.kongqigongying.com/js-module-7day/attach/qrcode.png" width="250" height="250"/>
 
 ### Catalog
 
@@ -15,7 +15,3 @@
 - 第五日 双塔奇兵 ***AMD/CMD*** 浏览器环境模块化方案
 - 第六日 精灵宝钻 ***Browserify/Webpack*** 大势所趋，去掉这层包裹！
 - 第七日 王者归来 ***ES6 Module*** 最后的战役
-
-### Thanks
-
-[Reveal.js](http://lab.hakim.se/reveal-js)
