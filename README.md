@@ -2,7 +2,7 @@
 
 ### ( JavaScript 模块化*七日谈 )*
 
-### [Watch Slides → ](http://huangxuan.me/js-module-7day)
+### [Watch Slides → ](http://www.kongqigongying.com/js-module-7day)
 
 <img src="https://www.kongqigongying.com/js-module-7day/attach/qrcode.png" width="250" height="250"/>
 
